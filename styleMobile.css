@@ -1,0 +1,149 @@
+.imageHeader {
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.244) 10%, rgba(226, 221, 225, 0.204)), url(images/bg-header-mobile.png);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 30px;
+
+}
+
+.greenButton {
+    margin-bottom: 10px;
+
+    
+}
+
+.blueButton {
+    margin-top: 10px;
+}
+
+
+.benefitsImageText {
+    display: block;
+    width: 100%;
+    gap: 20px;
+    margin-top: 0;
+    margin-left: 20px;
+    align-items: center;
+ }
+
+ .benefitsImage {
+    display: flex;
+    justify-content: center;
+ }
+
+ .benefitsTextItem {
+    margin-right: 15px;
+ }
+
+.computerImg {
+    width: 300px;
+    height: auto;
+}
+
+.benefitsTextItem {
+    text-align: center;
+
+}
+
+.companiesNames {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.googleImg {
+    width: 139px;
+    height: 41px;
+    margin: 30px;
+}
+
+.imbImg {
+    width: 104px;
+    height: 41px;
+    margin: 30px;   
+}
+
+.microsoftImg {
+    width: 135px;
+    height: 27px;
+    margin: 30px;
+}
+
+.hewlettImg {
+    width: 150px;
+    height: 60px;
+    margin: 30px;
+}
+
+.vectorImg {
+    width: 135px;
+    height: 35px;
+    margin: 30px;
+}
+
+footer {
+    background-color: hsl(210, 6%, 94%);
+    height: 350px;
+    width: 100%;
+     
+}
+
+.footerItems {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content:space-around;
+    padding-top: 25px;
+    align-items: center;
+}
+
+.footerLogo {
+    padding-left:10px;
+    padding-bottom: 20px;
+}
+
+.footerInformation {
+    width: 60%;
+
+}
+
+ul {
+    list-style: none;
+    gap: 1rem;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footerSocialNetworks {
+    width: 15%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    
+}
+
+.footerSocialNetworksItem {
+    padding-bottom: 20px;
+
+}
+
+
+
+
